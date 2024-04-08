@@ -1,0 +1,76 @@
+absl-py==1.4.0
+astor==0.8.1
+cached-property==1.5.2
+certifi==2021.5.30
+charset-normalizer==2.0.12
+cycler==0.11.0
+dataclasses==0.8
+decorator==4.4.2
+et-xmlfile==1.1.0
+foolbox==2.4.0
+gast==0.2.2
+gitdb==4.0.9
+GitPython==3.1.18
+google-pasta==0.2.0
+grpcio==1.48.2
+h5py==2.10.0
+idna==3.6
+imageio==2.15.0
+importlib-metadata==4.8.3
+importlib-resources==5.4.0
+joblib==1.1.1
+Keras==2.3.1
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+kiwisolver==1.3.1
+Markdown==3.3.7
+matplotlib==3.3.4
+networkx==2.5.1
+numpy==1.18.5
+nvidia-cublas @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_cublas-11.2.1.74-cp36-cp36m-linux_x86_64.whl
+nvidia-cuda-cupti @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_cuda_cupti-11.1.69-cp36-cp36m-linux_x86_64.whl
+nvidia-cuda-nvcc @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_cuda_nvcc-11.1.74-cp36-cp36m-linux_x86_64.whl
+nvidia-cuda-nvrtc @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_cuda_nvrtc-11.1.74-cp36-cp36m-linux_x86_64.whl
+nvidia-cuda-runtime @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_cuda_runtime-11.1.74-cp36-cp36m-linux_x86_64.whl
+nvidia-cudnn @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_cudnn-8.0.4.30-cp36-cp36m-linux_x86_64.whl
+nvidia-cufft @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_cufft-10.3.0.74-cp36-cp36m-linux_x86_64.whl
+nvidia-curand @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_curand-10.2.2.74-cp36-cp36m-linux_x86_64.whl
+nvidia-cusolver @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_cusolver-11.0.0.74-cp36-cp36m-linux_x86_64.whl
+nvidia-cusparse @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_cusparse-11.2.0.275-cp36-cp36m-linux_x86_64.whl
+nvidia-dali-cuda110 @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_dali_cuda110-0.26.0-1608709-py3-none-manylinux2014_x86_64.whl
+nvidia-dali-nvtf-plugin @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_dali_nvtf_plugin-0.26.0%2Bnv20.10-cp36-cp36m-linux_x86_64.whl
+nvidia-nccl @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_nccl-2.7.8-cp36-cp36m-linux_x86_64.whl
+nvidia-pyindex==1.0.5
+nvidia-tensorboard @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_tensorboard-1.15.0%2Bnv20.10-py3-none-any.whl
+nvidia-tensorflow @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_tensorflow-1.15.4%2Bnv20.10-cp36-cp36m-linux_x86_64.whl
+nvidia-tensorrt @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/nvidia_tensorrt-7.2.1.4-cp36-none-linux_x86_64.whl
+opencv-python==4.5.5.64
+openpyxl==3.0.9
+opt-einsum==3.3.0
+pandas==1.1.5
+Pillow==8.4.0
+protobuf==3.19.6
+pyparsing==3.1.1
+python-dateutil==2.8.2
+pytz==2021.1
+PyWavelets==1.1.1
+PyYAML==6.0.1
+requests==2.27.1
+scikit-image==0.17.2
+scikit-learn==0.24.2
+scipy==1.5.4
+seaborn==0.11.2
+six==1.16.0
+smmap==5.0.0
+tensorflow-estimator @ file:///media/usr/external/home/usr/tensorflow1_15/nvidia-tensorflow-gpu/tensorflow_estimator-1.15.1-py2.py3-none-any.whl
+termcolor==1.1.0
+threadpoolctl==3.1.0
+tifffile==2020.9.3
+tqdm==4.64.1
+typing_extensions==4.1.1
+urllib3==1.26.18
+webencodings==0.5.1
+Werkzeug==2.0.3
+wrapt==1.16.0
+xlrd==2.0.1
+zipp==3.6.0
